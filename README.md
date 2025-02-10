@@ -12,6 +12,8 @@ The dataset comes from a CSV file containing information on:
 -	Python: Pandas, Seaborn, Matplotlib
 -	Jupyter Notebook: For exploratory analysis
 
+Source : https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data
+
 # Analysis Approach
 -	Data Exploration: Visualization of distributions and missing values.
 -	Bivariate Analysis:
